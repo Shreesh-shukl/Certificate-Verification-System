@@ -85,7 +85,7 @@ Ensure you have the following installed:
 
 ## Contributing
 
-Feel free to fork this repository and contribute by submitting a pull request. Contributions to enhance the functionality or improve the code are always welcome!
+Feel free to fork this repository & contribute by submitting a pull request. Contributions to enhance the functionality or improve the code are always welcome!
 
 ## License
 
