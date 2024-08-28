@@ -87,10 +87,6 @@ Ensure you have the following installed:
 
 Feel free to fork this repository & contribute by submitting a pull request. Contributions to enhance the functionality or improve the code are always welcome!
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 
 - Special thanks to Zidio Internships for the mentorship and guidance during the development of this project.
